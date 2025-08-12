@@ -62,8 +62,6 @@ git clone https://github.com/ishaan-1706/memory-pool
 cd memorypool
 ```
 
-#Replace the URL above with your repository’s clone link once it’s live.
-
 ### Build
 
 ```bash
