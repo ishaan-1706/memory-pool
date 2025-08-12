@@ -58,7 +58,7 @@ pip install -r requirements.txt
 ### Getting Started
 
 ```bash
-git clone https://github.com/your-org/memorypool.git
+git clone [https://github.com/your-org/memorypool.git](https://github.com/ishaan-1706/memory-pool)
 cd memorypool
 ```
 
