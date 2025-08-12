@@ -1,0 +1,45 @@
+# C binaries and object files
+c/*.exe
+c/*.o
+
+# C build directories
+c/build/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python packaging and distribution
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Generated data (optional)
+data/results_python.csv
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
